@@ -1,10 +1,6 @@
 # Webpack Boilerplate
 
-A fork of Colt Steele's popular Webpack Boilerplate project he created over two hours on YouTube.
+A simple webpack boilerplate with pixi.js support.
 
-- Removed jQuery, Bootstrap, Popper.js, and SASS support.
-- Added babel support.
-- ran an npm audit fix
-
-npm start for development
-npm build for production
+- npm start for development
+- npm run build for production
