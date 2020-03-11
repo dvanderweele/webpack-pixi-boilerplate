@@ -1,3 +1,3 @@
-const me = "Dave VanderWeele";
+import { run } from "./app/app.js";
 
-console.log(me);
+run();
